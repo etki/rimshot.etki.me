@@ -1,0 +1,19 @@
+{
+  "name": "rimshot.etki.me",
+  "version": "0.1.0",
+  "authors": [
+    "Etki <etki@etki.me>"
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "homepage": "http://rimshot.etki.me",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
